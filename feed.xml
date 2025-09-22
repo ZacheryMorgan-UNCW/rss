@@ -5,6 +5,13 @@
     <link>https://example.com/</link>
     <description>This is a test feed.</description>
     <lastBuildDate>Mon, 22 Sep 2025 11:00:00 EST</lastBuildDate>
+    <item>
+      <title>New Published Item</title>
+      <link>https://example.com/new</link>
+      <description>New published item</description>
+      <pubDate>Mon, 22 Sep 2025 13:52:00 EST</pubDate>
+      <guid>3</guid>
+    </item>
     
     <item>
       <title>First Fake Item</title>
