@@ -6,6 +6,13 @@
     <description>This is a test feed.</description>
     <lastBuildDate>Mon, 22 Sep 2025 11:00:00 EST</lastBuildDate>
     <item>
+  <title>Test Item</title>
+  <link>https://example.com/test-article</link>
+  <guid isPermaLink="false">test-article-20250922113500</guid>
+  <pubDate>Mon, 22 Sep 2025 18:21:18 GMT</pubDate>
+  <description>This is a test.</description>
+  </item>
+    <item>
       <title>New Published Item</title>
       <link>https://example.com/new</link>
       <description>New published item</description>
