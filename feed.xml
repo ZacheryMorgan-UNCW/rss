@@ -7,6 +7,13 @@
     <lastBuildDate>Mon, 22 Sep 2025 11:00:00 EST</lastBuildDate>
     <item>
       <title>All Clear. Classes cancelled Friday.</title>
+      <link>https://example.com/new-test-article-two</link>
+      <guid isPermaLink="false">new-test-article-two</guid>
+      <pubDate>Mon, 22 Sep 2025 19:30:00 GMT</pubDate>
+      <description>All Clear. Classes cancelled 9/19/25. Condition one for employees. For details visit: uncw.edu/campus-incident.</description>
+    </item>
+    <item>
+      <title>All Clear. Classes cancelled Friday.</title>
       <link>https://example.com/new-test-article</link>
       <guid isPermaLink="false">new-test-article</guid>
       <pubDate>Mon, 22 Sep 2025 19:15:00 GMT</pubDate>
