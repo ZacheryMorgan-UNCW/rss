@@ -12,6 +12,13 @@
       <pubDate>Mon, 24 Sep 2025 15:57:00 GMT</pubDate>
       <description>All Clear. Classes cancelled 9/19/25. Condition one for employees. For details visit: uncw.edu/campus-incident.</description>
     </item>
+     <item>
+      <title>All Clear. Classes cancelled Friday.</title>
+      <link>https://example.com/new-test-article-five</link>
+      <guid isPermaLink="false">new-test-article-five</guid>
+      <pubDate>Mon, 24 Sep 2025 15:57:00 GMT</pubDate>
+      <description>All Clear. Classes cancelled 9/19/25. Condition one for employees. For details visit: uncw.edu/campus-incident.</description>
+    </item>
     <item>
       <title>All Clear. Classes cancelled Friday.</title>
       <link>https://example.com/new-test-article-four</link>
@@ -69,6 +76,13 @@
       <description>This is the second test item.</description>
       <pubDate>Mon, 22 Sep 2025 10:30:00 EST</pubDate>
       <guid>2</guid>
+    </item>
+    <item>
+      <title>third Fake Item</title>
+      <link>https://example.com/3</link>
+      <description>This is the third test item.</description>
+      <pubDate>Mon, 04 April 2026 16:13:00 EST</pubDate>
+      <guid>3</guid>
     </item>
   </channel>
 </rss>
